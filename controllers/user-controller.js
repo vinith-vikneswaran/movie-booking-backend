@@ -1,6 +1,6 @@
 import User from "../models/User";
 import bcrypt from "bcryptjs";
-import Bookings from "../models/Bookings";
+import Bookings from "../models/Bookings.js";
 import mongoose from "mongoose";
 
 // Fetch all users
