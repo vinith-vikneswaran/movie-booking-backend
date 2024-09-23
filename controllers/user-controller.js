@@ -1,4 +1,4 @@
-import User from "../models/User";
+import User from "../models/User.js";
 import bcrypt from "bcryptjs";
 import Bookings from "../models/Bookings.js";
 import mongoose from "mongoose";
